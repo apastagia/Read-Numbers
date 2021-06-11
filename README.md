@@ -3,4 +3,4 @@ Deep Learning Project
 
 Deep Learning + Keras + Tensorflow + NLP
 
-Digit prediction
+Digit prediction - mnist dataset
